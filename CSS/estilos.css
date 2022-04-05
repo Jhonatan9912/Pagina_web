@@ -1,0 +1,99 @@
+.search{
+    width: 400px;
+}
+.d-flex{
+    background-color: black;
+}
+.botton{
+    background-color:  orange;
+    border: 10px 10px 10px 10px;
+    margin: 0px;
+}
+hr{
+    height: 4px !important;
+}
+
+.px-5:hover{
+    background-color: orange;
+}
+.px-4:hover{
+        background-color: orange;
+
+}
+.navbar{
+    background-color: black;
+    padding-right: 40px;
+}
+
+.logo{
+    width: 100px;
+}
+.carousel{
+    padding-top: 20px;
+
+}
+.text-secondary{
+    font-size: 30px;
+}
+
+.nav-link{
+    padding-top: 10px;
+}
+.ini{
+    width: 700px;
+    padding: 50px 40px ;
+    margin: 10px;
+}
+.login1{
+    text-decoration: none;
+    color: white;
+}
+.user{
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+.foot{
+    width: 200px;
+    padding: 10px;
+}
+
+.FOTER{
+    background-color: #D5D2C7;
+}
+
+.img2{
+    width: 600px;
+    height: 600px;
+    padding-top: 100px;
+}
+.flex--cc{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.video{
+    width: 700px;
+
+}
+.colsof{
+    text-align: center;
+    padding: 30px;
+    
+}
+
+.colsof2{
+   background-color: black;
+   color: white;
+}
+.VERLOG{
+    background-color: white;
+}
+
+.table{
+    margin: 40px 200px;
+}
+.sup{
+    background-color: gainsboro;
+}
